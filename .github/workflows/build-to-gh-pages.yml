@@ -33,7 +33,7 @@ jobs:
 
       - name: Install dependencies & build
         run: |
-          npm install
+          npm install --force --legacy-peer-deps 
           npm run build-gh-pages
 
       - name: Upload artifact
