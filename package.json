@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "prebuild": "npm run clean",
-    "build:eleventy": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --quiet",
+    "build:eleventy": "npx @11ty/eleventy --quiet",
     "prebuild-gh-pages": "npm run clean",
     "build-gh-pages": "npm run build:sass; npm run build:eleventy -- --pathprefix=/neconomics/",
     "postbuild-gh-pages": "npm run minify:js",
