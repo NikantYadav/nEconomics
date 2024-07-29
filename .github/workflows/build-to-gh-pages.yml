@@ -34,7 +34,7 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm install --force --legacy-peer-deps 
-          npm run build
+          npm run build-gh-pages
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
