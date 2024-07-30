@@ -5,8 +5,6 @@ author: "Nikant Yadav"
 
 ---
 
-# Unveiling Climate Change Trends
-
 <br>
 
 ![](https://publish.illinois.edu/naterhet102/files/2017/04/climate-change-is-different-than-global-warming.png)
