@@ -9,11 +9,13 @@
   </div>
   <ul class="site-links">
   {% for item in navPages %}
+    {% if item.key == 'About' %}
   <li{% if item.url === page.url %} class="active" aria-current="page"{% endif %}>
     <a href="{{ item.url }}">
       {{ item.key }}
     </a>
   </li>
+    {% endif %}
   {% endfor %}
   </ul>
 </div>
