@@ -7,13 +7,17 @@ author: "Nikant Yadav"
 
 <br>
 
-![](https://publish.illinois.edu/naterhet102/files/2017/04/climate-change-is-different-than-global-warming.png)
 
-<br>
 
 Climate change represents a significant consequence of accelerated economic growth.
 
 Conducting a comprehensive analysis of environmental variables is crucial to understanding the extent of climate change and identifying its potential causes. Such analysis will facilitate the development of policies aimed at mitigating and countering the impacts of climate change.
+
+<br>
+
+![](https://publish.illinois.edu/naterhet102/files/2017/04/climate-change-is-different-than-global-warming.png)
+
+
 
 <br>
 
