@@ -515,7 +515,7 @@ We begin this analysis by summarizing the distribution of WTP within each questi
 
 #### **For minimum willingness to pay:**
 
-![](../../../assets/images/postimages/p4_2.png)
+![](/images/postimages/p4_2.png)
 
 <br>
 
@@ -524,7 +524,7 @@ We begin this analysis by summarizing the distribution of WTP within each questi
 <br>
 
 #### **For the maximum willingness to pay:**
-![](../../../assets/images/postimages/p4_3.png)
+![](/images/postimages/p4_3.png)
 
 
 <br>
@@ -959,7 +959,7 @@ At this point, in addition to the numerical counts, we can observe the proportio
 
 <br>
 
-![](../../../assets/images/postimages/p4_4.png)
+![](/images/postimages/p4_4.png)
 
 
 <br>
@@ -1177,7 +1177,7 @@ This table establishes new proportions for individuals who have participated in 
 
 <br>
 
-![](../../../assets/images/postimages/p4_5.png)
+![](/images/postimages/p4_5.png)
 
 <br>
 
@@ -1327,7 +1327,7 @@ This data contains the various climate investment opportunities in different sec
 > The estimates in this report are based on the 21 NDCs submitted to the United Nations Framework Convention on Climate Change by IFC’s countries of focus, as well as the national plans, policies, and targets that underpin them. IFC assessed the national climate change commitments and other policies in 21 countries that represent 48 percent of global greenhousegas (GHG) emissions
 
 <br>
-![](../../../assets/images/postimages/p4_6.png)
+![](/images/postimages/p4_6.png)
 
 As we can clearly see, that the East Asia Pacific region needs the most investment. This large proportion of this region in this pie chart, is due to the inclusion of China in this region. Currently, China and India are the two most important countries in the fight against climate change.
 
@@ -1359,19 +1359,19 @@ This report, majorly talks about the below given sectors where investments are n
 
 <br>
 
-![](../../../assets/images/postimages/p4_7.png)
+![](/images/postimages/p4_7.png)
 
 <br>
 
-![](../../../assets/images/postimages/p4_8.png)
+![](/images/postimages/p4_8.png)
 
 <br>
 
-![](../../../assets/images/postimages/p4_9.png)
+![](/images/postimages/p4_9.png)
 
 <br>
 
-![](../../../assets/images/postimages/p4_10.png)
+![](/images/postimages/p4_10.png)
 <br>
 
 These graphs enable us to analyze which regions require greater investment in specific sectors.
@@ -1386,7 +1386,7 @@ These graphs enable us to analyze which regions require greater investment in sp
 
 <br>
 
-![](../../../assets/images/postimages/p4_11.png)
+![](/images/postimages/p4_11.png)
 
 <br>
 
