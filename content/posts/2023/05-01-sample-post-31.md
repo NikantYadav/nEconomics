@@ -4,8 +4,6 @@ author: "Nikant Yadav"
 date: "2024-06-24"
 ---
 
-NOT COMPLETED YET (LAST PART LEFTF)
-
 **Well-being** can be understood as how people feel and how they function, both on a personal and a social level, and how they evaluate their lives as a whole.
 
 <br>
