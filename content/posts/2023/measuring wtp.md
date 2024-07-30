@@ -11,11 +11,12 @@ output:
 
 ![](/images/postimages/p4_1.jpg)
 
-## **Abatement Costs**
-
 As businesses shift towards pursuing environmental, social, and governance (ESG) means, abatement costs play a large role in discouraging companies from leniency on their environmental greenhouse gas emissions.
 
 Specifically, abatement costs are there as **"fines"** for companies that either fail to innovate in creating greener production cycles or fail to account for potential problems and end up damaging the environment.
+
+## **Abatement Costs**
+<br>
 
 The most common scenario in which abatement costs are applied is for pollution and oil spills, whether accidental or intentional.
 
