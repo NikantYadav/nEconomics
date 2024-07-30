@@ -5,9 +5,6 @@ author: "Nikant Yadav"
 
 ---
 
-<br>
-
-
 
 Climate change represents a significant consequence of accelerated economic growth.
 
