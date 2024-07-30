@@ -9,7 +9,7 @@ output:
 
 
 
-![](../../../assets/images/postimages/p4_1.jpg)
+![](/images/postimages/p4_1.jpg)
 
 ## **Abatement Costs**
 
